@@ -14,6 +14,9 @@ Eu estudo e desenvolvo principalmente com as seguintes tecnologias:
 </div>
 <br/>
 
+Atualmente estou desenvolvendo o <a href="https://github.com/GabSantos/escudo-do-mestre" target="_blank">Escudo do Mestre</a>.
+Uma plataforma para mestres e jogadores de RPG com ferramentas para os sistemas Tormenta20 e Ordem Paranormal
+
 
 
 <div>
